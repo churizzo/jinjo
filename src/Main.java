@@ -39,7 +39,7 @@ public class Main {
         int anoAlbum = scanner.nextInt();
         scanner.nextLine();
 
-        System.out.print("Digite o nome d álbum: ");
+        System.out.print("Digite o nome do álbum: ");
         String nomeAlbum = scanner.nextLine();
 
         Album album = new Album();
@@ -54,7 +54,6 @@ public class Main {
 
         scanner.close();
 
-        System.out.print("ta erado");
 
     }
 }
