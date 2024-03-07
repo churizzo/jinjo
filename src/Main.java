@@ -54,5 +54,7 @@ public class Main {
 
         scanner.close();
 
+        System.out.print("ta errado");
+
     }
 }
